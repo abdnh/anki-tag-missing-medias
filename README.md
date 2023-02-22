@@ -1,5 +1,7 @@
 # Tag missing media
 
+_Note_: As of Anki 2.1.60+, this feature is available natively, so this add-on won't be updated for these versions.
+
 ## Rationale
 
 When you click on «check media», anki gives the list of missing
